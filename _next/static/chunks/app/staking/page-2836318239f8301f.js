@@ -626,13 +626,13 @@
                         (0, a.jsx)("img", {
                           className:
                             "absolute left-[9px] md:left-[12px] top-0 w-4 h-4 md:w-5 md:h-5",
-                          src: "/staking/esDRAI.png",
+                          src: "/images/esDRAI.png",
                           alt: "es order",
                         }),
                         (0, a.jsx)("img", {
                           className:
                             "absolute left-0 top-0 w-4 h-4 md:w-5 md:h-5",
-                          src: "/staking/DRAI.png",
+                          src: "/images/DRAI.png",
                           alt: "order",
                         }),
                       ],
@@ -796,7 +796,7 @@
                       setValue: m,
                       tokenInfo: {
                         tokenName: "DRAI",
-                        tokenImage: "/staking/DRAI.png",
+                        tokenImage: "/images/DRAI.png",
                       },
                       valueValidStatus: b,
                     }),
@@ -850,7 +850,7 @@
                   children: [
                     (0, a.jsx)("img", {
                       className: "w-4 h-4 md:w-5 md:h-5",
-                      src: "/staking/DRAI.png",
+                      src: "/images/DRAI.png",
                       width: "20",
                       height: "20",
                       alt: "order",
@@ -1416,7 +1416,7 @@
                             "flex items-center justify-start gap-1 text-[13px] lg:text-base",
                           children: [
                             (0, a.jsx)("img", {
-                              src: "/staking/DRAI.png",
+                              src: "/images/DRAI.png",
                               className: "w-4 h-4 md:w-5 md:h-5",
                               alt: "order",
                             }),
@@ -1469,7 +1469,7 @@
                         "flex items-center justify-start gap-1 text-[13px] lg:text-base",
                       children: [
                         (0, a.jsx)("img", {
-                          src: "/staking/DRAI.png",
+                          src: "/images/DRAI.png",
                           className: "w-4 h-4 md:w-5 md:h-5",
                           alt: "order",
                         }),
@@ -1607,7 +1607,7 @@
                     valueValidStatus: p,
                     tokenInfo: {
                       tokenName: "DRAI",
-                      tokenImage: "/staking/DRAI.png",
+                      tokenImage: "/images/DRAI.png",
                     },
                   }),
                   (0, a.jsxs)("div", {
@@ -1832,7 +1832,7 @@
                           children: [
                             (0, a.jsx)("img", {
                               className: "w-4 h-4 md:w-5 md:h-5",
-                              src: "/staking/DRAI.png",
+                              src: "/images/DRAI.png",
                               alt: "order",
                             }),
                             (0, a.jsx)("div", {
@@ -1929,7 +1929,7 @@
                           children: [
                             (0, a.jsx)("img", {
                               className: "w-4 h-4 md:w-5 md:h-5",
-                              src: "/staking/esDRAI.png",
+                              src: "/images/esDRAI.png",
                               alt: "order",
                             }),
                             (0, a.jsx)("div", {
@@ -1997,7 +1997,7 @@
                       children: [
                         (0, a.jsx)("img", {
                           className: "w-4 h-4 md:w-5 md:h-5",
-                          src: "/staking/esDRAI.png",
+                          src: "/images/esDRAI.png",
                           alt: "order",
                         }),
                         (0, a.jsx)("div", {

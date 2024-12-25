@@ -1607,7 +1607,7 @@
                         children: [
                           (0, l.jsx)("img", {
                             className: "w-4 h-4 md:w-5 md:h-5",
-                            src: "/staking/esDRAI.png",
+                            src: "/images/esDRAI.png",
                             alt: "order",
                           }),
                           (0, l.jsx)("div", {
@@ -1627,7 +1627,7 @@
                         children: [
                           (0, l.jsx)("img", {
                             className: "w-4 h-4 md:w-5 md:h-5",
-                            src: "/staking/esDRAI.png",
+                            src: "/images/esDRAI.png",
                             alt: "order",
                           }),
                           (0, l.jsx)("div", {
@@ -1647,7 +1647,7 @@
                         children: [
                           (0, l.jsx)("img", {
                             className: "w-4 h-4 md:w-5 md:h-5",
-                            src: "/staking/DRAI.png",
+                            src: "/images/DRAI.png",
                             alt: "order",
                           }),
                           (0, l.jsx)("div", {

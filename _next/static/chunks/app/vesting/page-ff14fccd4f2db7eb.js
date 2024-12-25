@@ -603,7 +603,7 @@
                     children: [
                       (0, l.jsx)("img", {
                         className: "w-4 h-4 md:w-5 md:h-5",
-                        src: "/staking/esDRAI.png",
+                        src: "/images/esDRAI.png",
                         alt: "order",
                       }),
                       (0, l.jsx)("div", {
@@ -669,7 +669,7 @@
                         valueValidStatus: n,
                         tokenInfo: {
                           tokenName: "esDRAI",
-                          tokenImage: "/staking/esDRAI.png",
+                          tokenImage: "/images/esDRAI.png",
                         },
                         className: "w-full p-0",
                         isShowTokenInfo: !1,
@@ -683,7 +683,7 @@
                     children: [
                       (0, l.jsx)("img", {
                         className: "w-4 h-4 md:w-5 md:h-5",
-                        src: "/staking/esDRAI.png",
+                        src: "/images/esDRAI.png",
                         alt: "order",
                       }),
                       (0, l.jsx)("div", {
@@ -724,7 +724,7 @@
                           valueValidStatus: n,
                           tokenInfo: {
                             tokenName: "esDRAI",
-                            tokenImage: "/staking/esDRAI.png",
+                            tokenImage: "/images/esDRAI.png",
                           },
                           className: "w-full p-0",
                           isShowErrorTip: !1,

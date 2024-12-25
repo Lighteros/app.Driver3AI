@@ -2783,7 +2783,7 @@
       var l = s(6272);
       let a = () =>
         (0, l.jsxs)("img", {
-          src:"esDRAI.png"
+          src:"/images/esDRAIsm.png"
         });
     },
     3404: function (e, t, s) {
@@ -2795,7 +2795,7 @@
       var l = s(6272);
       let a = () =>
         (0, l.jsxs)("img", {
-          src: "DRAI.png"
+          src: "/images/DRAIsm.png"
         });
     },
     7541: function (e, t, s) {
