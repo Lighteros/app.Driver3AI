@@ -90,8 +90,8 @@
           (0, i.useEffect)(() => {
             let e =
               "mm" == t
-                ? "MM reward | Orderly Network"
-                : "Trading reward | Orderly Network";
+                ? "MM reward | Drive3 AI"
+                : "Trading reward | Drive3 AI";
             document.title = e;
           }, []);
           let a = c(t);

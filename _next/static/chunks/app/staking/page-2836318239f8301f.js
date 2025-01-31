@@ -2853,7 +2853,7 @@
           ef.useWalletAdapterContext)();
         return (
           (0, h.useEffect)(() => {
-            document.title = "Staking | Orderly Network";
+            document.title = "Staking | Drive3 AI";
           }, []),
           (0, a.jsx)(g.E, {
             children: (0, a.jsxs)(eS.u, {

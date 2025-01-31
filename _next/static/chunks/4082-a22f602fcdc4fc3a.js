@@ -90,7 +90,7 @@
             {
               id: "0x".concat("116c"),
               token: "ETH",
-              label: "Orderly Network Testnet",
+              label: "Drive3 AI Testnet",
               rpcUrl:
                 "https://rpc-orderly-l2-4460-sepolia-8tc3sd7dvy.t.conduit.xyz",
             },
